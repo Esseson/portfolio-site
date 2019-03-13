@@ -72,17 +72,17 @@ const Index = () => (
         <ProjectsWrapper>
           <ProjectCard
             title="N'dearing naturals"
-            link="https://www.behance.net/gallery/58937147/Freiheit"
+            link="https://www.endearing.ga/"
             bg="linear-gradient(to right, #D4145A 0%, #FBB03B 100%)"
           >
-            This project is my entry to Adobe's #ChallengeYourPerspective contest.
+            Shea Butter and African Black Soap Platform ' #ChallengeYourPerspective contest.
           </ProjectCard>
           <ProjectCard
-            title="Harry Potter"
-            link="https://www.behance.net/gallery/52915793/Harry-Potter"
+            title="Carnivore Connect"
+            link="https://carnivore-connect.com/"
             bg="linear-gradient(to right, #662D8C 0%, #ED1E79 100%)"
           >
-            I entered the DOCMA 2017 award with this Harry Potter inspired image.
+            I Designed an online platform for Ecommerce sales.
           </ProjectCard>
           <ProjectCard
             title="Tomb Raider"
