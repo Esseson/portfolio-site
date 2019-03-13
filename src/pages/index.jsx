@@ -65,7 +65,7 @@ const Index = () => (
         <BigTitle>
           Hello, <br /> I'm Esseson.
         </BigTitle>
-        <Subtitle>I'm a student, web developer and Entreprenuer.</Subtitle>
+        <Subtitle>I'm creating noice web experiences for the next generation of consumer-facing companies.</Subtitle>
       </Hero>
       <Projects offset={1}>
         <Title>Projects</Title>
@@ -129,7 +129,7 @@ const Index = () => (
         <Footer>
           &copy; 2019 by Gatsby Starter Portfolio Cara.{' '}
           <a href="https://github.com/LekoArts/gatsby-starter-portfolio-cara">Github Repository</a>. Made by{' '}
-                         Esseson</a>.
+          <a href="https://www.lekoarts.de">Esseson</a>.
         </Footer>
       </Contact>
     </Parallax>
