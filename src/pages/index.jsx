@@ -71,7 +71,7 @@ const Index = () => (
         <Title>Projects</Title>
         <ProjectsWrapper>
           <ProjectCard
-            title="Freiheit"
+            title="N'dearing naturals"
             link="https://www.behance.net/gallery/58937147/Freiheit"
             bg="linear-gradient(to right, #D4145A 0%, #FBB03B 100%)"
           >
@@ -103,7 +103,7 @@ const Index = () => (
       <About offset={3}>
         <Title>About</Title>
         <AboutHero>
-          <Avatar src={avatar} alt="John Doe" />
+          <Avatar src={avatar} alt="Esseson" />
           <AboutSub>
             The English language can not fully capture the depth and complexity of my thoughts. So I'm incorporating
             Emoji into my speech to better express myself. Winky face.
