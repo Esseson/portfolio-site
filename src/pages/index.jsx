@@ -85,18 +85,18 @@ const Index = () => (
             I Designed an online platform for Ecommerce sales.
           </ProjectCard>
           <ProjectCard
-            title="Tomb Raider"
-            link="https://www.behance.net/gallery/43907099/Tomb-Raider"
+            title="Pattana Improve"
+            link="https://www.pattanaimprove.com/"
             bg="linear-gradient(to right, #009245 0%, #FCEE21 100%)"
           >
-            Recreation of a Tomb Raider Wallpaper (Fan Art)
+            Designed a Consulting Website for a Bangkok Based startup
           </ProjectCard>
           <ProjectCard
-            title="Eagle"
-            link="https://www.behance.net/gallery/38068151/Eagle"
+            title="Volta Irrigation"
+            link="https://www.voltairrigation.org/"
             bg="linear-gradient(to right, #D585FF 0%, #00FFEE 100%)"
           >
-            A fantasy image manipulation relocating the habitat of wild animals.
+            Designed a platform for a startup solving irrigation challenges In Africa
           </ProjectCard>
         </ProjectsWrapper>
       </Projects>
