@@ -75,28 +75,28 @@ const Index = () => (
             link="https://www.endearing.ga/"
             bg="linear-gradient(to right, #D4145A 0%, #FBB03B 100%)"
           >
-            Shea Butter and African Black Soap Platform ' #ChallengeYourPerspective contest.
+            My small scale Ecommerce platform for Shea Butter and African Black Soap '#Wordpress.
           </ProjectCard>
           <ProjectCard
-            title="Carnivore Connect"
-            link="https://carnivore-connect.com/"
+            title="Anredia"
+            link="https://anredia.com/"
             bg="linear-gradient(to right, #662D8C 0%, #ED1E79 100%)"
           >
-            I Designed an online platform for Ecommerce sales.
-          </ProjectCard>
-          <ProjectCard
-            title="Pattana Improve"
-            link="https://www.pattanaimprove.com/"
-            bg="linear-gradient(to right, #009245 0%, #FCEE21 100%)"
-          >
-            Designed a Consulting Website for a Bangkok Based startup
+            A clients project a single paged web application '#Laravel.
           </ProjectCard>
           <ProjectCard
             title="Volta Irrigation"
             link="https://www.voltairrigation.org/"
+            bg="linear-gradient(to right, #009245 0%, #FCEE21 100%)"
+          >
+            An irrigation startup basic website '#Wix.
+          </ProjectCard>
+          <ProjectCard
+            title="Carniovre Connect"
+            link="https://carnivore-connect.com/"
             bg="linear-gradient(to right, #D585FF 0%, #00FFEE 100%)"
           >
-            Designed a platform for a startup solving irrigation challenges In Africa
+            Designed a platform for a client to sell steak '#Wordpress.
           </ProjectCard>
         </ProjectsWrapper>
       </Projects>
