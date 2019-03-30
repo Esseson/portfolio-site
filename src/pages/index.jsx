@@ -65,7 +65,7 @@ const Index = () => (
         <BigTitle>
           Hello, <br /> I'm Esseson.
         </BigTitle>
-        <Subtitle> A Nineteen-Year-Old student, Web Developer and aspiring Real Estate Investor.</Subtitle>
+        <Subtitle> An Undergrad student, Web Developer and aspiring Real Estate Investor.</Subtitle>
       </Hero>
       <Projects offset={1}>
         <Title>Projects</Title>
@@ -105,25 +105,24 @@ const Index = () => (
         <AboutHero>
           <Avatar src={avatar} alt="Esseson" />
           <AboutSub>
-            The English language can not fully capture the depth and complexity of my thoughts. So I'm incorporating
-            Emoji into my speech to better express myself. Winky face.
+            coming from a not so technical background(Pharmacology) I learnt to build websites myself and it's become a 
+            one of my many Hobbies.
           </AboutSub>
         </AboutHero>
         <AboutDesc>
-          You know the way you feel when you see a picture of two otters holding hands? That's how you're gonna feel
-          every day. My mother cried the day I was born because she knew she’d never be prettier than me. You should
-          make me your campaign manager. I was born for politics. I have great hair and I love lying. Captain? The kids
-          want to know where Paulie the Pigeon is. I told them he got sucked up into an airplane engine, is that all
-          right?
+         My Core skills are Wordpress, CSS, ReactJs, Vanila Javascript, NodeJS. I do have an unfair advantage which
+          is my ability to come up to speed within the shortest time possible. I manage my time effectively and make 
+          sure to communicate effectively via emails and text messages with clients.
+          Feel Free to be in touch.
         </AboutDesc>
       </About>
       <Contact offset={4}>
         <Inner>
           <Title>Get in touch</Title>
           <ContactText>
-            Say <a href="mailto:plizNoSp4m@domain.tld">Hi</a> or find me on other platforms:{' '}
-            <a href="https://dribbble.com/LekoArts">Dribbble</a> &{' '}
-            <a href="https://www.instagram.com/lekoarts.de/">Instagram</a>
+            Say <a href="essesonahmed@yahoo.com">Hi</a> or find me on other platforms:{' '}
+            <a href="+1 (520)-999-9282">Phone Number</a> &{' '}
+            <a href="https://www.linkedin.com/in/raphael-esseson-b6940212a/">LinkedIn</a>
           </ContactText>
         </Inner>
         <Footer>
