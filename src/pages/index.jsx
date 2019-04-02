@@ -65,7 +65,7 @@ const Index = () => (
         <BigTitle>
           Hello, <br /> I'm Esseson.
         </BigTitle>
-        <Subtitle> An Undergrad student, Web Developer and aspiring Real Estate Investor.</Subtitle>
+        <Subtitle> A Web Developer and aspiring Real Estate Investor.</Subtitle>
       </Hero>
       <Projects offset={1}>
         <Title>Projects</Title>
@@ -110,7 +110,7 @@ const Index = () => (
           </AboutSub>
         </AboutHero>
         <AboutDesc>
-         My Core skills are Wordpress, CSS, ReactJs, Vanila Javascript, NodeJS. I do have an unfair advantage which
+          My Core skills are <strong> Wordpress, CSS, ReactJs, Vanila Javascript, NodeJS</strong>. I do have an unfair advantage which
           is my ability to come up to speed within the shortest time possible. I manage my time effectively and make 
           sure to communicate effectively via emails and text messages with clients.
           Feel Free to be in touch.
