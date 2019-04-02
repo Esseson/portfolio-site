@@ -105,8 +105,7 @@ const Index = () => (
         <AboutHero>
           <Avatar src={avatar} alt="Esseson" />
           <AboutSub>
-            coming from a not so technical background(Pharmacology) I learnt to build websites myself and it's become a 
-            one of my many Hobbies.
+             I learnt to build websites myself and it has become one of my many Hobbies. 
           </AboutSub>
         </AboutHero>
         <AboutDesc>
@@ -126,7 +125,6 @@ const Index = () => (
           </ContactText>
         </Inner>
         <Footer>
-          &copy; 2019 by Gatsby Starter Portfolio Cara.{' '}
           <a href="https://github.com/LekoArts/gatsby-starter-portfolio-cara">Github Repository</a>. Made by{' '}
           <a href="https://www.lekoarts.de">Esseson</a>.
         </Footer>
