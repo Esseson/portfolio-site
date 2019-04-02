@@ -110,12 +110,15 @@ const Index = () => (
           </AboutSub>
         </AboutHero>
         <AboutDesc>
-          I'm an expert in using the following platforms/Frameworks: <strong> Wordpress, CSS, ReactJs, Vanila Javascript, NodeJS</strong>. I do have an unfair advantage which
-          is my ability to come up to speed within the shortest time possible. I manage my time effectively and make 
-          sure to communicate effectively via emails and text messages with clients.
+          I'm an expert in using the following platforms/Frameworks: <strong> Wordpress, CSS, ReactJs, Vanila Javascript, NodeJS</strong>. I can deliver 
+         Websites/Web Apps within minimal timeframe and still meet my clients expectation.
           Feel Free to be in touch.
         </AboutDesc>
-      </About>
+      </About>do have an unfair advantage whichdo have an unfair advantage which
+114
+          is my ability to come up 
+114
+          is my ability to come up 
       <Contact offset={4}>
         <Inner>
           <Title>Get in touch</Title>
