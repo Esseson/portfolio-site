@@ -126,7 +126,7 @@ const Index = () => (
           </ContactText>
         </Inner>
         <Footer>
-          <a href="https://github.com/LekoArts/gatsby-starter-portfolio-cara">Github Repository</a>. Made by{' '}
+         Made by{' '}
           <a href="https://www.lekoarts.de">Esseson</a>.
         </Footer>
       </Contact>
