@@ -105,7 +105,8 @@ const Index = () => (
         <AboutHero>
           <Avatar src={avatar} alt="Esseson" />
           <AboutSub>
-             I learnt to build websites myself and it has become one of my many Hobbies. 
+             I learnt to build websites myself and I became an expert. Providing and asssisting my clients to run their
+            business.
           </AboutSub>
         </AboutHero>
         <AboutDesc>
