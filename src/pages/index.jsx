@@ -118,23 +118,12 @@ const Index = () => (
             business.
           </AboutSub>
         </AboutHero>
-<!--         <AboutHero>
-          <Avatar src={Nashin} alt="Nawshin" />
-          <AboutSub>
-            I am a professional Graphic Designer having over 4 years experience in this field. I am a certified graphic designer. 
-             Also an expert in flyer,brochure, banner,ad,business card,logo,magazine design etc.
-          </AboutSub>
-        </AboutHero> -->
         <AboutDesc>
           I'm an expert in using the following platforms/Frameworks: <strong> Wordpress, CSS, ReactJs, Vanila Javascript, NodeJS</strong>. I can deliver 
          Websites/Web Apps within minimal timeframe and still meet my clients expectation.
           Feel Free to be in touch.
         </AboutDesc>
-      </About>do have an unfair advantage whichdo have an unfair advantage which
-114
-          is my ability to come up 
-114
-          is my ability to come up 
+    
       <Contact offset={4}>
         <Inner>
           <Title>Get in touch</Title>
