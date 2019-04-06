@@ -103,6 +103,8 @@ const Index = () => (
             My resume detailing relevant work experience'#G-suite.
           </ProjectCard>
         </ProjectsWrapper>
+        <Title>Graphics and Logos</Title>
+        
       </Projects>
       
       <About offset={3}>
