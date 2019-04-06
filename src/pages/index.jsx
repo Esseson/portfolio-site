@@ -18,7 +18,7 @@ import About from '../views/About'
 import Contact from '../views/Contact'
 
 import Esseson from '../images/Esseson.jpg'
-import Nawshin from '../images/Nawshin.jpg'
+import Nawshin from '../images/Nawshin.png'
 
 
 
