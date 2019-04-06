@@ -124,8 +124,8 @@ const Index = () => (
          <AboutHero>
           <Avatar src={Nawshin} alt="Nawshin" />
           <AboutSub>
-             I learnt to build websites myself and I became an expert. Providing and asssisting my clients to run their
-            business.
+            I am a professional Graphic Designer having over 4 years experience in this field. 
+            I am a certified graphic designer.
           </AboutSub>
         </AboutHero>
 <!--         <AboutDesc>
