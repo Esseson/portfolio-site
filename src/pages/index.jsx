@@ -18,6 +18,8 @@ import About from '../views/About'
 import Contact from '../views/Contact'
 
 import Esseson from '../images/Esseson.jpg'
+import Nawshin from '../images/Nawshin.jpg'
+
 
 
 const ProjectsWrapper = styled.div`
@@ -119,11 +121,18 @@ const Index = () => (
             business.
           </AboutSub>
         </AboutHero>
-        <AboutDesc>
+         <AboutHero>
+          <Avatar src={Nawshin} alt="Nawshin" />
+          <AboutSub>
+             I learnt to build websites myself and I became an expert. Providing and asssisting my clients to run their
+            business.
+          </AboutSub>
+        </AboutHero>
+<!--         <AboutDesc>
           I'm an expert in using the following platforms/Frameworks: <strong> Wordpress, CSS, ReactJs, Vanila Javascript, NodeJS</strong>. I can deliver 
          Websites/Web Apps within minimal timeframe and still meet my clients expectation.
           Feel Free to be in touch.
-        </AboutDesc>
+        </AboutDesc> -->
       </About>
       <Contact offset={4}>
         <Inner>
