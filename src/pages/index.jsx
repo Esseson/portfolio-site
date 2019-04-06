@@ -104,9 +104,7 @@ const Index = () => (
           </ProjectCard>
         </ProjectsWrapper>
         <Title>Graphics and Logos</Title>
-        <img src="https://cdn.shopify.com/s/files/1/1266/9241/articles/10_health_and_wellness_benefits_of_strawberries_Story_Page.jpeg?v=1523561527" alt="Strawberry" height="42" width="42">
-
-        
+  
       </Projects>
       
       <About offset={3}>
