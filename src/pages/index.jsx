@@ -128,11 +128,11 @@ const Index = () => (
             I am a certified graphic designer.
           </AboutSub>
         </AboutHero>
-        <AboutDesc>
+<!--         <AboutDesc>
           I'm an expert in using the following platforms/Frameworks: <strong> Wordpress, CSS, ReactJs, Vanila Javascript, NodeJS</strong>. I can deliver 
          Websites/Web Apps within minimal timeframe and still meet my clients expectation.
           Feel Free to be in touch.
-        </AboutDesc>
+        </AboutDesc> -->
       </About>
       <Contact offset={4}>
         <Inner>
