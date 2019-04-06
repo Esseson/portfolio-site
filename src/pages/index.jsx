@@ -117,6 +117,13 @@ const Index = () => (
             business.
           </AboutSub>
         </AboutHero>
+        <AboutHero>
+          <Avatar src={Nashin} alt="Nawshin" />
+          <AboutSub>
+            I am a professional Graphic Designer having over 4 years experience in this field. I am a certified graphic designer. 
+             Also an expert in flyer,brochure, banner,ad,business card,logo,magazine design etc.
+          </AboutSub>
+        </AboutHero>
         <AboutDesc>
           I'm an expert in using the following platforms/Frameworks: <strong> Wordpress, CSS, ReactJs, Vanila Javascript, NodeJS</strong>. I can deliver 
          Websites/Web Apps within minimal timeframe and still meet my clients expectation.
