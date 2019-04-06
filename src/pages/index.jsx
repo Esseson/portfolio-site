@@ -17,7 +17,8 @@ import Projects from '../views/Projects'
 import About from '../views/About'
 import Contact from '../views/Contact'
 
-import avatar from '../images/avatar.jpg'
+import Esseson from '../images/Esseson.jpg'
+
 
 const ProjectsWrapper = styled.div`
   ${tw`flex flex-wrap justify-between mt-8`};
@@ -111,19 +112,19 @@ const Index = () => (
       <About offset={3}>
         <Title>About</Title>
         <AboutHero>
-          <Avatar src={avatar} alt="Esseson" />
+          <Avatar src={Esseson} alt="Esseson" />
           <AboutSub>
              I learnt to build websites myself and I became an expert. Providing and asssisting my clients to run their
             business.
           </AboutSub>
         </AboutHero>
-        <AboutHero>
+<!--         <AboutHero>
           <Avatar src={Nashin} alt="Nawshin" />
           <AboutSub>
             I am a professional Graphic Designer having over 4 years experience in this field. I am a certified graphic designer. 
              Also an expert in flyer,brochure, banner,ad,business card,logo,magazine design etc.
           </AboutSub>
-        </AboutHero>
+        </AboutHero> -->
         <AboutDesc>
           I'm an expert in using the following platforms/Frameworks: <strong> Wordpress, CSS, ReactJs, Vanila Javascript, NodeJS</strong>. I can deliver 
          Websites/Web Apps within minimal timeframe and still meet my clients expectation.
