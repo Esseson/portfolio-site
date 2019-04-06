@@ -118,6 +118,7 @@ const Index = () => (
             business.
           </AboutSub>
         </AboutHero>
+        </About>
         <AboutDesc>
           I'm an expert in using the following platforms/Frameworks: <strong> Wordpress, CSS, ReactJs, Vanila Javascript, NodeJS</strong>. I can deliver 
          Websites/Web Apps within minimal timeframe and still meet my clients expectation.
