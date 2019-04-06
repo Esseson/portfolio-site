@@ -89,13 +89,6 @@ const Index = () => (
             A clients project a single paged web application '#Laravel.
           </ProjectCard>
           <ProjectCard
-            title="Volta Irrigation"
-            link="https://www.voltairrigation.org/"
-            bg="linear-gradient(to right, #009245 0%, #FCEE21 100%)"
-          >
-            An irrigation startup basic website '#Wix.
-          </ProjectCard>
-          <ProjectCard
             title="Carniovre Connect"
             link="https://carnivore-connect.com/"
             bg="linear-gradient(to right, #D585FF 0%, #00FFEE 100%)"
