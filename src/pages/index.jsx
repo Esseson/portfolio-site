@@ -98,6 +98,13 @@ const Index = () => (
           >
             Designed a platform for a client to sell steak '#Wordpress.
           </ProjectCard>
+          <ProjectCard
+            title="Resume"
+            link="https://drive.google.com/file/d/112plipuDJrZbN5pZfEfO94EZlxCCJoTx/view?usp=sharing"
+            bg="linear-gradient(to right, #FF0091 0%, #FF0066 100%)"
+          >
+            My resume detailing relevant work experience'#G-suite.
+          </ProjectCard>
         </ProjectsWrapper>
       </Projects>
       <About offset={3}>
