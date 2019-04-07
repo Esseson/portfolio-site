@@ -67,7 +67,7 @@ const Index = () => (
     <Parallax pages={5}>
       <Hero offset={0}>
         <BigTitle>
-          Hi there, <br /> we are Esseson & Nawshin.
+          Hello, <br /> 
         </BigTitle>
         <Subtitle> We can help design your stunning Website, Mobile App, Graphics, UI/UX, SEO 
           and overall Online presence.</Subtitle>
