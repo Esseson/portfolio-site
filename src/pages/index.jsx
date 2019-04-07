@@ -69,8 +69,8 @@ const Index = () => (
         <BigTitle>
           Hello, <br /> 
         </BigTitle>
-        <Subtitle> We can help design your stunning Website, Mobile App, Graphics, UI/UX, SEO 
-          and overall Online presence.</Subtitle>
+        <Subtitle> We can help design your stunning Website, Mobile Apps, Graphics, UI/UX, SEO, 
+         Social media marketing and overall online presence.</Subtitle>
       </Hero>
       <Projects offset={1}>
         <Title>Projects</Title>
