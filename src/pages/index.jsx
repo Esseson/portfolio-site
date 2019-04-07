@@ -134,13 +134,11 @@ const Index = () => (
           <Title>Get in touch</Title>
           <ContactText>
             Say <a href="essesonahmed@yahoo.com">Hi</a> or find me on other platforms:{' '}
-            <a href="https://dribbble.com/LekoArts">Dribbble</a> &{' '}
             <a href="https://www.instagram.com/lekoarts.de/">Instagram</a>
           </ContactText>
         </Inner>
         <Footer>
-          &copy; 2019 by Gatsby Starter Portfolio Esseson.{' '}
-          <a href="https://github.com/LekoArts/gatsby-starter-portfolio-cara">Github Repository</a>. Made by{' '}
+          Made by{' '}
           <a href="https://www.lekoarts.de">Esseson</a>.
         </Footer>
       </Contact>
