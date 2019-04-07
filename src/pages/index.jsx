@@ -19,6 +19,7 @@ import Contact from '../views/Contact'
 
 import Esseson from '../images/Esseson.jpg'
 import Nawshin from '../images/Nawshin.jpg'
+import Strawberry from '../images/Strawberry.jpg'
 
 
 
@@ -42,6 +43,9 @@ const AboutHero = styled.div`
 
 const Avatar = styled.img`
   ${tw`rounded-full w-32 xl:w-48 shadow-lg h-10px`};
+
+const Graphics = styled.img`
+  ${tw`rounded-full w-50 xl:w-70 shadow-lg h-20px`};
 `
 
 const AboutSub = styled.span`
@@ -104,6 +108,8 @@ const Index = () => (
           </ProjectCard>
         </ProjectsWrapper>
         <Title>Graphics and Logos</Title>
+         <Graphics src={Strawberry} alt="Strawberry" />
+
   
       </Projects>
       
