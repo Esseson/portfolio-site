@@ -41,6 +41,7 @@ const AboutHero = styled.div`
 
 const Avatar = styled.img`
   ${tw`rounded-full w-32 xl:w-48 shadow-lg h-10px`};
+
 `
 
 const AboutSub = styled.span`
@@ -88,9 +89,9 @@ const Index = () => (
             A clients project a single paged web application '#Laravel.
           </ProjectCard>
           <ProjectCard
-            title="Carniovre Connect"
-            link="https://carnivore-connect.com/"
-            bg="linear-gradient(to right, #D585FF 0%, #00FFEE 100%)"
+            title="Pattana Improve"
+            link="https://www.behance.net/gallery/43907099/Tomb-Raider"
+            bg="linear-gradient(to right, #009245 0%, #FCEE21 100%)"
           >
             Designed a platform for a client to sell steak '#Wordpress.
           </ProjectCard>
@@ -102,8 +103,11 @@ const Index = () => (
             My resume detailing relevant work experience'#G-suite.
           </ProjectCard>
         </ProjectsWrapper>
+<<<<<<< Updated upstream
         <Title>Graphics and Logos</Title>
   
+=======
+>>>>>>> Stashed changes
       </Projects>
       
       <About offset={3}>
@@ -128,12 +132,13 @@ const Index = () => (
           <Title>Get in touch</Title>
           <ContactText>
             Say <a href="essesonahmed@yahoo.com">Hi</a> or find me on other platforms:{' '}
-            <a href="+1 (520)-999-9282">Phone Number</a> &{' '}
-            <a href="https://www.linkedin.com/in/raphael-esseson-b6940212a/">LinkedIn</a>
+            <a href="https://dribbble.com/LekoArts">Dribbble</a> &{' '}
+            <a href="https://www.instagram.com/lekoarts.de/">Instagram</a>
           </ContactText>
         </Inner>
         <Footer>
-         Made by{' '}
+          &copy; 2019 by Gatsby Starter Portfolio Esseson.{' '}
+          <a href="https://github.com/LekoArts/gatsby-starter-portfolio-cara">Github Repository</a>. Made by{' '}
           <a href="https://www.lekoarts.de">Esseson</a>.
         </Footer>
       </Contact>
