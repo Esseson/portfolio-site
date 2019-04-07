@@ -19,8 +19,6 @@ import Contact from '../views/Contact'
 
 import Esseson from '../images/Esseson.jpg'
 import Nawshin from '../images/Nawshin.jpg'
-import Strawberry from '../images/Strawberry.jpg'
-
 
 
 const ProjectsWrapper = styled.div`
@@ -105,8 +103,6 @@ const Index = () => (
           </ProjectCard>
         </ProjectsWrapper>
         <Title>Graphics and Logos</Title>
-         <Avatar src={Strawberry} alt="Strawberry" />
-
   
       </Projects>
       
