@@ -113,8 +113,8 @@ const Index = () => (
         <Title>Graphics and Logos</Title>
            <ProjectsWrapper>
         <Avatar src={Strawberry} alt="Esseson" />
-        <Avatar src={Logo1} alt="VG_Gaming" />
-        <Avatar src={Logo2} alt="Brochure" />
+        {/* <Avatar src={Logo1} alt="VG_Gaming" />
+        <Avatar src={Logo2} alt="Brochure" /> */}
 
 
            </ProjectsWrapper>
