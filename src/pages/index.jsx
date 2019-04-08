@@ -45,7 +45,7 @@ const Avatar = styled.img`
 
 `
 const Graphics = styled.img`
-  ${tw`Square w-32 xl:w-48 shadow-lg h-10px`};
+  ${tw`Square w-32 xl:w-48 shadow-lg h-20px`};
 
 `
 
