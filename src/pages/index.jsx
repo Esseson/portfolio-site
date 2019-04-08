@@ -44,6 +44,11 @@ const Avatar = styled.img`
   ${tw`rounded-full w-32 xl:w-48 shadow-lg h-10px`};
 
 `
+const Graphics = styled.img`
+  ${tw`Square w-32 xl:w-48 shadow-lg h-10px`};
+
+`
+
 
 const AboutSub = styled.span`
   ${tw`text-white pt-12 lg:pt-0 lg:pl-12 text-2xl lg:text-3xl xl:text-4xl`};
@@ -107,7 +112,7 @@ const Index = () => (
 
         <Title>Graphics and Logos</Title>
            <ProjectsWrapper>
-        <Avatar src={Strawberry} alt="Esseson" />
+        <Graphics src={Strawberry} alt="Esseson" />
            </ProjectsWrapper>
 
       </Projects>
