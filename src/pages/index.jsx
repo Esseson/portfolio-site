@@ -20,6 +20,10 @@ import Contact from '../views/Contact'
 import Esseson from '../images/Esseson.jpg'
 import Nawshin from '../images/Nawshin.jpg'
 import Strawberry from '../images/Strawberry.jpg'
+import Logo1 from '../images/Logo1.jpg'
+import Logo2 from '../images/Logo2.jpg'
+
+
 
 
 const ProjectsWrapper = styled.div`
@@ -113,6 +117,11 @@ const Index = () => (
         <Title>Graphics and Logos</Title>
            <ProjectsWrapper>
         <Graphics src={Strawberry} alt="Esseson" />
+        <Graphics src={Logo1} alt="Logo1" />
+        <Graphics src={Logo2} alt="Logo2" />
+
+
+
            </ProjectsWrapper>
 
       </Projects>
