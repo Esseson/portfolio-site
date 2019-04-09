@@ -22,6 +22,9 @@ import Nawshin from '../images/Nawshin.jpg'
 import Strawberry from '../images/Strawberry.jpg'
 import Logo1 from '../images/Logo1.jpg'
 import Logo2 from '../images/Logo2.jpg'
+import Logo3 from '../images/Logo3.jpg'
+
+
 
 
 
@@ -49,7 +52,7 @@ const Avatar = styled.img`
 
 `
 const Graphics = styled.img`
-  ${tw`circle w-32 xl:w-48 shadow-lg h-auto`};
+  ${tw`Circle w-32 xl:w-48 shadow-lg h-auto`};
 
 `
 
@@ -119,6 +122,8 @@ const Index = () => (
         <Graphics src={Strawberry} alt="Esseson" />
         <Graphics src={Logo1} alt="Logo1" />
         <Graphics src={Logo2} alt="Logo2" />
+        <Graphics src={Logo3} alt="Logo3" />
+
 
 
 
@@ -131,16 +136,17 @@ const Index = () => (
         <AboutHero>
           <Avatar src={Esseson} alt="Esseson" />
           <AboutSub>
-             I learnt to build websites myself and I became an expert. Providing and asssisting my clients to run their
-            business.
+             "I learnt to build websites myself and I became an expert. Providing and asssisting my clients to run their
+            business" <br />
+            <h6>...Esseson</h6>
           </AboutSub>
         </AboutHero>
          <AboutHero>
           <Avatar src={Nawshin} alt="Nawshin" />
           <AboutSub>
-            I am a professional Graphic Designer having over 4 years experience in this field. 
-            I am a certified graphic designer.<br />
-            <h5>Nawshin</h5>
+            "I am a professional Graphic Designer having over 4 years experience in this field. 
+           <br />
+            <h6>...Nawshin</h6>
           </AboutSub>
         </AboutHero>
       </About>
