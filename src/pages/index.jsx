@@ -49,7 +49,7 @@ const Avatar = styled.img`
 
 `
 const Graphics = styled.img`
-  ${tw`Square w-32 xl:w-48 shadow-lg h-auto`};
+  ${tw`circle w-32 xl:w-48 shadow-lg h-auto`};
 
 `
 
@@ -139,7 +139,8 @@ const Index = () => (
           <Avatar src={Nawshin} alt="Nawshin" />
           <AboutSub>
             I am a professional Graphic Designer having over 4 years experience in this field. 
-            I am a certified graphic designer.
+            I am a certified graphic designer.<br />
+            <h5>Nawshin</h5>
           </AboutSub>
         </AboutHero>
       </About>
