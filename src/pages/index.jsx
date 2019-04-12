@@ -155,19 +155,7 @@ const Index = () => (
           <Title>Get in touch</Title>
           <ContactText>
             Say <a href = "mailto: essesonahmed@yahoo.com"> Hi</a> or find me on other platforms:{' '}
-            <a href="tel:1-562-867-5309">1-562-867-5309</a>
-                          <form name="contact" netlify>
-                <p>
-                  <label>Name <input type="text" name="name" /></label>
-                </p>
-                <p>
-                  <label>Email <input type="email" name="email" /></label>
-                </p>
-                <p>
-                  <button type="submit">Send</button>
-                </p>
-              </form>
-
+            <a href="tel:1-520-999-9282">1-520-999-9282</a>
           </ContactText>
         </Inner>
         <Footer>
