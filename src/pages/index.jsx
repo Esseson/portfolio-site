@@ -144,7 +144,7 @@ const Index = () => (
          <AboutHero>
           <Avatar src={Nawshin} alt="Nawshin" />
           <AboutSub>
-            "I am a professional Graphic Designer having over 4 years experience in this field. 
+            "I am a professional Graphic Designer having over 4 years experience providing slick design to satisfied clients. 
            <br />
             <h6>...Nawshin</h6>
           </AboutSub>
