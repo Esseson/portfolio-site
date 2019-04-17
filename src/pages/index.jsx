@@ -29,6 +29,7 @@ import Logo3 from '../images/Logo3.jpg'
 
 
 
+
 const ProjectsWrapper = styled.div`
   ${tw`flex flex-wrap justify-between mt-8`};
   display: grid;
@@ -119,7 +120,7 @@ const Index = () => (
 
         <Title>Graphics and Logos</Title>
            <ProjectsWrapper>
-        <Graphics src={Strawberry} alt="Strawberry" />
+        <Graphics style={{width: '150px', height: '150px'}} src={Strawberry} alt="Strawberry" />
         <Graphics src={Logo1} alt="Logo1" />
         <Graphics src={Logo2} alt="Logo2" />
         <Graphics src={Logo3} alt="Logo3" />
