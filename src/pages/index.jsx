@@ -22,7 +22,6 @@ import Nawshin from '../images/Nawshin.jpg'
 import Strawberry from '../images/Strawberry.jpg'
 import Logo1 from '../images/Logo1.jpg'
 import Logo2 from '../images/Logo2.jpg'
-import Logo3 from '../images/Logo3.jpg'
 
 
 
@@ -123,8 +122,6 @@ const Index = () => (
         <Graphics style={{width: '300px', height: '300px'}} src={Strawberry} alt="Strawberry" />
         <Graphics style={{width: '300px', height: '300px'}} src={Logo1} alt="Logo1" />
         <Graphics style={{width: '300px', height: '300px'}}src={Logo2} alt="Logo2" />
-        <Graphics style={{width: '300px', height: '300px'}}src={Logo3} alt="Logo3" />
-
 
 
 
