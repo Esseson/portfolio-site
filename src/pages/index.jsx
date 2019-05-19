@@ -88,8 +88,8 @@ const Index = () => (
         <Title>Projects</Title>
         <ProjectsWrapper>
           <ProjectCard
-            title="N'dearing naturals"
-            link="https://www.endearing.ga/"
+            title="Carnivore Connect"
+            link="https://carnivore-connect.com/"
             bg="linear-gradient(to right, #D4145A 0%, #FBB03B 100%)"
           >
             My small scale Ecommerce platform for Shea Butter and African Black Soap '#Wordpress.
@@ -102,8 +102,8 @@ const Index = () => (
             A clients project a single paged web application '#Laravel.
           </ProjectCard>
           <ProjectCard
-            title="Pattana Improve"
-            link="https://www.behance.net/gallery/43907099/Tomb-Raider"
+            title="YopeToday"
+            link="https://www.yopetoday.ga/"
             bg="linear-gradient(to right, #009245 0%, #FCEE21 100%)"
           >
             Designed a platform for a client to sell steak '#Wordpress.
