@@ -92,7 +92,7 @@ const Index = () => (
             link="https://carnivore-connect.com/"
             bg="linear-gradient(to right, #D4145A 0%, #FBB03B 100%)"
           >
-            My small scale Ecommerce platform for Shea Butter and African Black Soap '#Wordpress.
+            An ecommerce website to sell steak. '#Wordpress.
           </ProjectCard>
           <ProjectCard
             title="Anredia"
@@ -106,7 +106,7 @@ const Index = () => (
             link="https://www.yopetoday.ga/"
             bg="linear-gradient(to right, #009245 0%, #FCEE21 100%)"
           >
-            Designed a platform for a client to sell steak '#Wordpress.
+            A financial literacy platform to help people spend wisely '#ReactJS.
           </ProjectCard>
           <ProjectCard
             title="Resume"
