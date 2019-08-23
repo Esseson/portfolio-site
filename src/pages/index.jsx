@@ -18,9 +18,7 @@ import About from '../views/About'
 import Contact from '../views/Contact'
 
 import Esseson from '../images/Esseson.jpg'
-import Strawberry from '../images/Strawberry.jpg'
-import Logo1 from '../images/Logo1.jpg'
-import Logo2 from '../images/Logo2.jpg'
+
 
 
 
@@ -80,8 +78,8 @@ const Index = () => (
         <BigTitle>
           Hello, <br /> 
         </BigTitle>
-        <Subtitle> We can help design your stunning Website, Mobile Apps, Graphics, UI/UX, SEO, 
-         Social media marketing and overall online presence.</Subtitle>
+        <Subtitle> I can help design your stunning Website, Mobile Apps, Graphics, UI/UX, SEO, 
+        content writing.</Subtitle>
       </Hero>
       <Projects offset={1}>
         <Title>Projects</Title>
@@ -116,20 +114,6 @@ const Index = () => (
           </ProjectCard>
         </ProjectsWrapper>
 
-<<<<<<< HEAD
-       
-=======
-        <Title>Graphics and Logos</Title>
-           <ProjectsWrapper>
-        <Graphics style={{width: '300px', height: '300px'}} src={Strawberry} alt="Strawberry" />
-        <Graphics style={{width: '300px', height: '300px'}} src={Logo1} alt="Logo1" />
-        <Graphics style={{width: '300px', height: '300px'}}src={Logo2} alt="Logo2" />
-
-
-
-           </ProjectsWrapper>
-
->>>>>>> d31d8fbd2ae31230d08c710394e4748998aa0375
       </Projects>
       
       <About offset={3}>
