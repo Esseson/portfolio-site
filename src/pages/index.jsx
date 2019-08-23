@@ -18,7 +18,6 @@ import About from '../views/About'
 import Contact from '../views/Contact'
 
 import Esseson from '../images/Esseson.jpg'
-import Nawshin from '../images/Nawshin.jpg'
 import Strawberry from '../images/Strawberry.jpg'
 import Logo1 from '../images/Logo1.jpg'
 import Logo2 from '../images/Logo2.jpg'
@@ -118,18 +117,7 @@ const Index = () => (
           </ProjectCard>
         </ProjectsWrapper>
 
-        <Title>Graphics and Logos</Title>
-           <ProjectsWrapper>
-        <Graphics style={{width: '300px', height: '300px'}} src={Strawberry} alt="Strawberry" />
-        <Graphics style={{width: '300px', height: '300px'}} src={Logo1} alt="Logo1" />
-        <Graphics style={{width: '300px', height: '300px'}}src={Logo2} alt="Logo2" />
-        <Graphics style={{width: '300px', height: '300px'}}src={Logo3} alt="Logo3" />
-
-
-
-
-           </ProjectsWrapper>
-
+       
       </Projects>
       
       <About offset={3}>
@@ -142,15 +130,8 @@ const Index = () => (
             <h6>...Esseson</h6>
           </AboutSub>
         </AboutHero>
-         <AboutHero>
-          <Avatar src={Nawshin} alt="Nawshin" />
-          <AboutSub>
-            "I am a professional Graphic Designer having over 4 years experience providing slick design to satisfied clients. 
-           <br />
-            <h6>...Nawshin</h6>
-          </AboutSub>
-        </AboutHero>
       </About>
+
       <Contact offset={4}>
         <Inner>
           <Title>Get in touch</Title>
@@ -161,7 +142,7 @@ const Index = () => (
         </Inner>
         <Footer>
           Made by{' '}
-          <a href="https://www.lekoarts.de">Esseson</a>.
+          <a href="https://www.Esseson.com">Esseson</a>.
         </Footer>
       </Contact>
     </Parallax>
