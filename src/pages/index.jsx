@@ -20,7 +20,7 @@ import Contact from '../views/Contact'
 import Esseson from '../images/Esseson.jpg'
 
 
-
+<script data-ad-client="ca-pub-5679338456764532" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
 
 
