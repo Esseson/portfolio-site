@@ -89,7 +89,7 @@ const Index = () => (
             link="https://ourspacenow.site/%3Ewelcome"
             bg="linear-gradient(to right, #D4145A 0%, #FBB03B 100%)"
           >
-            An ecommerce website to sell steak. '#Wordpress.
+            A Real estate listing platform. '#ASP.Net, Python.
           </ProjectCard>
           <ProjectCard
             title="Anredia"
