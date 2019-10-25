@@ -85,8 +85,8 @@ const Index = () => (
         <Title>Projects</Title>
         <ProjectsWrapper>
           <ProjectCard
-            title="Carnivore Connect"
-            link="https://carnivore-connect.com/"
+            title="OurSpaceNow"
+            link="https://ourspacenow.site/%3Ewelcome"
             bg="linear-gradient(to right, #D4145A 0%, #FBB03B 100%)"
           >
             An ecommerce website to sell steak. '#Wordpress.
