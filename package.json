@@ -1,8 +1,8 @@
 {
   "name": "gatsby-starter-portfolio-cara",
-  "description": "Playful & Colorful One-Page website with Parallax effect powered by react-spring, TailwindCSS.",
+  "description": "Portfolio Website for Esseson.",
   "version": "3.0.0",
-  "author": "LekoArts <hello@lekoarts.de> (https://www.lekoarts.de)",
+  "author": "Esseson <esseson009@gmail.com> (https://www.esseson.com)",
   "license": "MIT",
   "dependencies": {
     "babel-plugin-styled-components": "^1.10.0",

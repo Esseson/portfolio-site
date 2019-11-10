@@ -48,7 +48,7 @@ const Head = props => {
       '@type': 'Person',
       name: config.author,
     },
-    datePublished: '2019-01-17',
+    datePublished: '2019-01-19',
     dateModified: buildTime,
     image: {
       '@type': 'ImageObject',
@@ -84,7 +84,7 @@ const Head = props => {
       <link rel="apple-touch-icon" href="/favicons/apple-touch-icon.png" />
       <link rel="icon" type="image/png" sizes="32x32" href="/favicons/favicon-32x32.png" />
       <link rel="icon" type="image/png" sizes="16x16" href="/favicons/favicon-16x16.png" />
-      <meta name="gatsby-starter" content="Gatsby Starter Portfolio Cara" />
+      <meta name="Esseson Portfolio" content="Portfolio Website for web developer Esseson " />
       <link rel="shortcut icon" href="favicon.ico" />
       <meta name="msapplication-TileColor" content={config.backgroundColor} />
       <meta name="msapplication-config" content="browserconfig.xml" />
