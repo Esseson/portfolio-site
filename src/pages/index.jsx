@@ -114,9 +114,9 @@ const Index = () => (
           <ProjectCard
             title="Best Quiet RV Generator"
             link="https://docs.google.com/document/d/106QSCHQnPrqEd3-BMJHbPDOhohAQx2yaLBcAbU8enHg/edit?usp=sharing"
-            bg="linear-gradient(to right, #FF0091 0%, #FF0066 100%)"
+            bg="linear-gradient(to right, #3300FF 0%, #8800FF 100%)"
           >
-            My resume detailing relevant work experience'#G-suite.
+            content writing project for RV blogs.
           </ProjectCard>
 
         </ProjectsWrapper>
