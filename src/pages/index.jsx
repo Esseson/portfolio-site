@@ -24,8 +24,6 @@ import Esseson from '../images/Esseson.jpg'
 
 
 
-
-
 const ProjectsWrapper = styled.div`
   ${tw`flex flex-wrap justify-between mt-8`};
   display: grid;
@@ -85,11 +83,11 @@ const Index = () => (
         <Title>Projects</Title>
         <ProjectsWrapper>
           <ProjectCard
-            title="Carnivore Connect"
-            link="https://carnivore-connect.com/"
+            title="OurSpaceNow"
+            link="https://ourspacenow.site/%3Ewelcome"
             bg="linear-gradient(to right, #D4145A 0%, #FBB03B 100%)"
           >
-            An ecommerce website to sell steak. '#Wordpress.
+            A Real estate listing platform. '#ASP.Net, Python.
           </ProjectCard>
           <ProjectCard
             title="Anredia"
@@ -112,6 +110,15 @@ const Index = () => (
           >
             My resume detailing relevant work experience'#G-suite.
           </ProjectCard>
+
+          <ProjectCard
+            title="Best Quiet RV Generator"
+            link="https://docs.google.com/document/d/106QSCHQnPrqEd3-BMJHbPDOhohAQx2yaLBcAbU8enHg/edit?usp=sharing"
+            bg="linear-gradient(to right, #FF0091 0%, #FF0066 100%)"
+          >
+            My resume detailing relevant work experience'#G-suite.
+          </ProjectCard>
+
         </ProjectsWrapper>
 
       </Projects>
