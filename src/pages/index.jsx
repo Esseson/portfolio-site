@@ -105,7 +105,7 @@ const Index = () => (
           </ProjectCard>
           <ProjectCard
             title="Resume"
-            link="https://drive.google.com/file/d/112plipuDJrZbN5pZfEfO94EZlxCCJoTx/view?usp=sharing"
+            link="https://docs.google.com/document/d/1WxGMeXsnV50AHvZd1XV4CUovCzoZA_y826tx31rayP0/edit?usp=sharing"
             bg="linear-gradient(to right, #FF0091 0%, #FF0066 100%)"
           >
             My resume detailing relevant work experience'#G-suite.
@@ -119,6 +119,13 @@ const Index = () => (
             content writing project for RV blogs.
           </ProjectCard>
 
+          <ProjectCard
+            title="Best First Aid Kit For Hiking, Backpacking or Camping"
+            link="https://docs.google.com/document/d/131dlrl-GpnwFljVDXbjp2iNeGKDL4JU_5b5ZC3ZRFrE/edit?usp=sharing"
+            bg="linear-gradient(to right, #626657 0%, #666D4F 100%)"
+          >
+            SEO article for first aid kit.
+          </ProjectCard>
         </ProjectsWrapper>
 
       </Projects>
