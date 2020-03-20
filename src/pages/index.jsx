@@ -146,8 +146,8 @@ const Index = () => (
         <Inner>
           <Title>Get in touch</Title>
           <ContactText>
-            Say <a href = "mailto: essesonahmed@yahoo.com"> Hi</a> or find me on other platforms:{' '}
-            <a href="tel:1-520-999-9282">1-520-999-9282</a>
+            Say <a href = "mailto: iamesseson@gmail.com"> Hi</a> or find me on other platforms:{' '}
+            <a href="tel:1-540-360-1924">1-540-360-1924</a>
           </ContactText>
         </Inner>
         <Footer>
