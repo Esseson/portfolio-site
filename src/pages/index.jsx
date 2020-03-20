@@ -148,9 +148,13 @@ const Index = () => (
           <ContactText>
             Say <a href = "mailto: iamesseson@gmail.com"> Hi</a> or find me on other platforms:{' '}
             <a href="tel:1-540-360-1924">1-540-360-1924</a>
+            <br/>
             <a href="https://www.linkedin.com/in/raphael-esseson-b6940212a/">LinkedIn</a>
+              <br/>
             <a href="https://www.instagram.com/esseson/">Instagram</a>
+                <br/>
             <a href="https://web.facebook.com/Lord.Esseson">Facebook</a>
+                <br/>
             <a href="https://esseson.contently.com/">Contently</a>
 
 
