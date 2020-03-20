@@ -146,9 +146,8 @@ const Index = () => (
         <Inner>
           <Title>Get in touch</Title>
           <ContactText>
-            Say <a href = "tel:1-540-360-1924"> Hello</a> or find me on other platforms:{' '}
+            Say <a href = "tel:1-540-360-1924"> Hello</a>,<a href = "malito:iamesseson@gmail.com"> Email</a> or find me on other platforms:{' '}
             <br/>
-            <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-512.png" alt="facebook" width="50" height="50">
             <a href="https://www.linkedin.com/in/raphael-esseson-b6940212a/">LinkedIn</a>
               <br/>
             <a href="https://www.instagram.com/esseson/">Instagram</a>
