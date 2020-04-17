@@ -90,18 +90,18 @@ const Index = () => (
             A Real estate listing platform. '#ASP.Net, Python.
           </ProjectCard>
           <ProjectCard
-            title="Anredia"
-            link="https://anredia.com/"
+            title="Reasonable Remedies"
+            link="https://www.reasonableremedies.com/"
             bg="linear-gradient(to right, #662D8C 0%, #ED1E79 100%)"
           >
-            A clients project a single paged web application '#Laravel.
+           Effective and affordable naturopathic health supplement to help you quickly recover from influenza and viruses. '#WORDPRESS.
           </ProjectCard>
           <ProjectCard
             title="YopeToday"
             link="https://www.yopetoday.ga/"
             bg="linear-gradient(to right, #009245 0%, #FCEE21 100%)"
           >
-            A financial literacy platform to help people spend wisely '#ReactJS.
+          Effective and affordable naturopathic health supplement to help you quickly recover from influenza and viruses. '#WORDPRESS.
           </ProjectCard>
           <ProjectCard
             title="Resume"
