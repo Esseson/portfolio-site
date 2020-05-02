@@ -17,7 +17,7 @@ module.exports = {
   userTwitter: '@esseson', // Twitter Username
   ogSiteName: 'Esseson Peniel Raphael', // Facebook Site Name
   ogLanguage: 'en_US', // Facebook Language
-  googleAnalyticsID: 'UA-47519312-5',
+  googleAnalyticsID: 'UA-165365882-1',
 
   // Manifest and Progress color
   themeColor: tailwind.colors.orange,
