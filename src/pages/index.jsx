@@ -101,7 +101,7 @@ const Index = () => (
           <ProjectCard
             title="Reasonable Remedies"
             link="https://www.reasonableremedies.com/"
-            bg="linear-gradient(to right, #662D8C 0%, #ED1E79 100%)"
+            bg="linear-gradient(to right, #DDDDDD 0%, #AAAAAA 100%)"
           >
            Effective and affordable naturopathic health supplement to help you quickly recover from influenza and viruses. '#WORDPRESS.
           </ProjectCard>
