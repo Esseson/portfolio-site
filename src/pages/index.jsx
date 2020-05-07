@@ -75,6 +75,7 @@ const Index = () => (
       <Hero offset={0}>
         <BigTitle>
           Hello, <br /> 
+          I will design your
         </BigTitle>
         <Subtitle>    
             <a href="https://www.esseson.com/">Website, </a>
