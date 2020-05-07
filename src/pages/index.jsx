@@ -75,9 +75,9 @@ const Index = () => (
       <Hero offset={0}>
         <BigTitle>
           Hello, <br /> 
-          I will design your
         </BigTitle>
         <Subtitle>    
+        <H2> I will design your </H2>
             <a href="https://www.esseson.com/">Website, </a>
             <a href="https://www.esseson.com/">Graphics, </a>
             <a href="https://www.esseson.com/">UI and UX, </a>
@@ -104,8 +104,7 @@ const Index = () => (
           >
            Effective and affordable naturopathic health supplement to help you quickly recover from influenza and viruses. '#WORDPRESS.
           </ProjectCard>
-          {/* ReasonableRemedies */}
-
+          {/* ReasonableRemedies */}ß
 
           <ProjectCard
             title="Resume"
