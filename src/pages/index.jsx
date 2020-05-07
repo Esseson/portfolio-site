@@ -121,7 +121,7 @@ const Index = () => (
           <ProjectCard
             title="Resume"
             link="https://docs.google.com/document/d/1WxGMeXsnV50AHvZd1XV4CUovCzoZA_y826tx31rayP0/edit?usp=sharing"
-            bg="linear-gradient(to right, #FF0091 0%, #FF0066 100%)"
+            bg="linear-gradient(to right, #111111 0%, #85144b 100%)"
           >
             My resume detailing relevant work experience'#G-suite.
           </ProjectCard>
