@@ -76,8 +76,13 @@ const Index = () => (
         <BigTitle>
           Hello, <br /> 
         </BigTitle>
-        <Subtitle> I can help design your stunning Website, Mobile Apps, Graphics, UI/UX, SEO, 
-        content writing.</Subtitle>
+        <Subtitle>    
+            <a href="https://www.esseson.com/">Website, </a>
+            <a href="https://www.esseson.com/">Graphics, </a>
+            <a href="https://www.esseson.com/">UI and UX, </a>
+      <br/>
+    and manage your <a href="https://www.esseson.com/">SEO. </a>
+    </Subtitle>
       </Hero>
       <Projects offset={1}>
         <Title>Projects</Title>
@@ -89,6 +94,8 @@ const Index = () => (
           >
             A Real estate listing platform. '#ASP.Net, Python.
           </ProjectCard>
+
+          {/* ReasonableRemedies */}
           <ProjectCard
             title="Reasonable Remedies"
             link="https://www.reasonableremedies.com/"
@@ -96,6 +103,9 @@ const Index = () => (
           >
            Effective and affordable naturopathic health supplement to help you quickly recover from influenza and viruses. '#WORDPRESS.
           </ProjectCard>
+          {/* ReasonableRemedies */}
+
+          {/* YopeToday */}
           <ProjectCard
             title="YopeToday"
             link="https://www.yopetoday.ga/"
@@ -103,6 +113,9 @@ const Index = () => (
           >
           Effective and affordable naturopathic health supplement to help you quickly recover from influenza and viruses. '#WORDPRESS.
           </ProjectCard>
+          {/* YopeToday */}
+
+
           <ProjectCard
             title="Resume"
             link="https://docs.google.com/document/d/1WxGMeXsnV50AHvZd1XV4CUovCzoZA_y826tx31rayP0/edit?usp=sharing"
