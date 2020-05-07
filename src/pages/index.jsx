@@ -85,6 +85,7 @@ const Index = () => (
     and manage your <a href="https://www.esseson.com/">SEO. </a>
     </Subtitle>
       </Hero>
+
       <Projects offset={1}>
         <Title>Projects</Title>
         <ProjectsWrapper>
@@ -104,7 +105,18 @@ const Index = () => (
           >
            Effective and affordable naturopathic health supplement to help you quickly recover from influenza and viruses. '#WORDPRESS.
           </ProjectCard>
-          {/* ReasonableRemedies */}ß
+          {/* ReasonableRemedies */}
+
+          {/* health.trans4mind.com */}
+          <ProjectCard
+            title="Holistic Health and Fitness Blog"
+            link="https://health.trans4mind.com/"
+            bg="linear-gradient(to right, #001f3f 0%, #111111 100%)"
+          >
+           My Content writing portfolio convering holistic health, fitness and lifestyle. '#WORDPRESS.
+          </ProjectCard>
+          {/* health.trans4mind.com */}
+
 
           <ProjectCard
             title="Resume"
