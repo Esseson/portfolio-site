@@ -114,21 +114,7 @@ const Index = () => (
             My resume detailing relevant work experience'#G-suite.
           </ProjectCard>
 
-          <ProjectCard
-            title="Best Quiet RV Generator"
-            link="https://docs.google.com/document/d/106QSCHQnPrqEd3-BMJHbPDOhohAQx2yaLBcAbU8enHg/edit?usp=sharing"
-            bg="linear-gradient(to right, #3300FF 0%, #8800FF 100%)"
-          >
-            content writing project for RV blogs.
-          </ProjectCard>
-
-          <ProjectCard
-            title="Best First Aid Kit For Hiking, Backpacking or Camping"
-            link="https://docs.google.com/document/d/131dlrl-GpnwFljVDXbjp2iNeGKDL4JU_5b5ZC3ZRFrE/edit?usp=sharing"
-            bg="linear-gradient(to right, #626657 0%, #666D4F 100%)"
-          >
-            SEO article for first aid kit.
-          </ProjectCard>
+       
         </ProjectsWrapper>
 
       </Projects>
