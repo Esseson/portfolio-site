@@ -106,16 +106,6 @@ const Index = () => (
           </ProjectCard>
           {/* ReasonableRemedies */}
 
-          {/* YopeToday */}
-          <ProjectCard
-            title="YopeToday"
-            link="https://www.yopetoday.ga/"
-            bg="linear-gradient(to right, #009245 0%, #FCEE21 100%)"
-          >
-          Effective and affordable naturopathic health supplement to help you quickly recover from influenza and viruses. '#WORDPRESS.
-          </ProjectCard>
-          {/* YopeToday */}
-
 
           <ProjectCard
             title="Resume"
