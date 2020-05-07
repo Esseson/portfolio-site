@@ -138,7 +138,9 @@ const Index = () => (
           <AboutSub>
              "I learnt to build websites myself and I became an expert. Providing and asssisting my clients to run their
             business" <br />
-            <h6>...Esseson</h6>
+            <h6>
+            <a href="https://www.esseson.com/"> ...Esseson </a>
+            </h6>
           </AboutSub>
         </AboutHero>
       </About>
