@@ -6,7 +6,7 @@ module.exports = {
   siteTitle: 'Esseson - Portfolio ', // Navigation and Site Title
   siteTitleAlt: 'Esseson', // Alternative Site title for SEO
   siteTitleShort: 'Esseson', // short_name for manifest
-  siteHeadline: 'Creating marvelous art & blazginly fast websites', // Headline for schema.org JSONLD
+  siteHeadline: 'Web design, SEO and Content creation for your business.', // Headline for schema.org JSONLD
   siteUrl: 'https://esseson.com', // Domain of your site. No trailing slash!
   siteLanguage: 'en', // Language Tag on <html> element
   siteLogo: '/Esseson.jpg', // Used for SEO and manifest
