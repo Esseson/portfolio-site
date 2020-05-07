@@ -92,7 +92,7 @@ const Index = () => (
           <ProjectCard
             title="OurSpaceNow"
             link="https://ourspacenow.site/%3Ewelcome"
-            bg="linear-gradient(to right, #D4145A 0%, #FBB03B 100%)"
+            bg="linear-gradient(to right, #0074D9 0%, #001f3f 100%)"
           >
             A Real estate listing platform. '#ASP.Net, Python.
           </ProjectCard>
