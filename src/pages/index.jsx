@@ -77,7 +77,7 @@ const Index = () => (
           Hello, <br /> 
         </BigTitle>
         <Subtitle>    
-        <H2> I will design your </H2>
+        <h2> I will design your </h2>
             <a href="https://www.esseson.com/">Website, </a>
             <a href="https://www.esseson.com/">Graphics, </a>
             <a href="https://www.esseson.com/">UI and UX, </a>

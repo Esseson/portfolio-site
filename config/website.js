@@ -9,9 +9,9 @@ module.exports = {
   siteHeadline: 'Creating marvelous art & blazginly fast websites', // Headline for schema.org JSONLD
   siteUrl: 'https://esseson.com', // Domain of your site. No trailing slash!
   siteLanguage: 'en', // Language Tag on <html> element
-  siteLogo: '/logo.png', // Used for SEO and manifest
+  siteLogo: '/Esseson.jpg', // Used for SEO and manifest
   siteDescription: 'Esseson Web design Service, SEO and Content Writing Portfolio',
-  author: 'LekoArts', // Author for schema.org JSONLD
+  author: 'Esseson', // Author for schema.org JSONLD
 
   // siteFBAppID: '123456789', // Facebook App ID - Optional
   userTwitter: '@esseson', // Twitter Username
