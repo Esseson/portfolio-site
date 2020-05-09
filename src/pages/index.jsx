@@ -136,8 +136,11 @@ const Index = () => (
         <AboutHero>
           <Avatar src={Esseson} alt="Esseson" />
           <AboutSub>
-             "I learnt to build websites myself and I became an expert. Providing and asssisting my clients to run their
-            business" <br />
+             "I have a thing for Seafood, Netflix and Good Music. 
+             <br/>
+             If not doing any of the abovementioned, I will be creating quality content (articles), Implementing White hat SEO strategies that convert or designing website for my client.
+              <br/>
+              Did you read all that? Well, We should get creative (together) on your next project.  " <br />
             <h6>
             <a href="https://www.esseson.com/"> ...Esseson </a>
             </h6>
