@@ -138,15 +138,13 @@ const Index = () => (
           <Avatar src={Esseson} alt="Esseson" />
           <AboutSub>
             <h5>
-             I have a thing for Seafood, Netflix and Good Music. 
+             "I have a thing for Seafood, Netflix and Good Music. 
              <br/>
              If not doing any of the abovementioned, I will be creating quality content (articles), Implementing White hat SEO strategies that convert or designing website for my client.
               <br/>
-              <br/>
-              Glad you read all that... Now, let's get creative (together) on your next project? <br />
+              Glad you read all that... Now, let's get creative (together) on your next project?  " <br />
               </h5>
-
-            <h6>
+            <h6>ß
             <a href="https://www.esseson.com/"> ...Esseson </a>
             </h6>
           </AboutSub>
